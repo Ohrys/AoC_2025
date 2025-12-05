@@ -1,6 +1,6 @@
 def main() : 
     """DAY 3 :
-        - On a numerical string(array), find the highest X combinations of digits (read from left to right). (e.g : 125547, the highest combinations of 2 digits is 55.)
+        - On a numerical string(array), find the highest X combinations of digits (read from left to right). (e.g : 125547, the highest combinations of 2 digits is 57.)
     """
 
     with open("./Énoncé/03-12.txt", 'r') as fichier :
